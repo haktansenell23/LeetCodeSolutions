@@ -1,0 +1,14 @@
+C:\Users\Haktan Emre Şenel\LeetCodeRepos\TwoSum\TwoSum\bin\Debug\net8.0\TwoSum.exe
+C:\Users\Haktan Emre Şenel\LeetCodeRepos\TwoSum\TwoSum\bin\Debug\net8.0\TwoSum.deps.json
+C:\Users\Haktan Emre Şenel\LeetCodeRepos\TwoSum\TwoSum\bin\Debug\net8.0\TwoSum.runtimeconfig.json
+C:\Users\Haktan Emre Şenel\LeetCodeRepos\TwoSum\TwoSum\bin\Debug\net8.0\TwoSum.dll
+C:\Users\Haktan Emre Şenel\LeetCodeRepos\TwoSum\TwoSum\bin\Debug\net8.0\TwoSum.pdb
+C:\Users\Haktan Emre Şenel\LeetCodeRepos\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haktan Emre Şenel\LeetCodeRepos\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.AssemblyInfoInputs.cache
+C:\Users\Haktan Emre Şenel\LeetCodeRepos\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.AssemblyInfo.cs
+C:\Users\Haktan Emre Şenel\LeetCodeRepos\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\Haktan Emre Şenel\LeetCodeRepos\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.dll
+C:\Users\Haktan Emre Şenel\LeetCodeRepos\TwoSum\TwoSum\obj\Debug\net8.0\refint\TwoSum.dll
+C:\Users\Haktan Emre Şenel\LeetCodeRepos\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.pdb
+C:\Users\Haktan Emre Şenel\LeetCodeRepos\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.genruntimeconfig.cache
+C:\Users\Haktan Emre Şenel\LeetCodeRepos\TwoSum\TwoSum\obj\Debug\net8.0\ref\TwoSum.dll
