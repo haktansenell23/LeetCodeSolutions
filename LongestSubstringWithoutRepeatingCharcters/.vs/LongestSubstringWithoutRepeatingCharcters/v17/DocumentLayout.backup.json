@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haktan Emre \u015Eenel\\LeetCodeRepos\\LongestSubstringWithoutRepeatingCharcters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CA4F9C-5975-467E-A3D6-285AA8175B51}|LongestSubstringWithoutRepeatingCharcters\\LongestSubstringWithoutRepeatingCharcters.csproj|c:\\users\\haktan emre \u015Fenel\\leetcoderepos\\longestsubstringwithoutrepeatingcharcters\\longestsubstringwithoutrepeatingcharcters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CA4F9C-5975-467E-A3D6-285AA8175B51}|LongestSubstringWithoutRepeatingCharcters\\LongestSubstringWithoutRepeatingCharcters.csproj|solutionrelative:longestsubstringwithoutrepeatingcharcters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haktan Emre \u015Eenel\\LeetCodeRepos\\LongestSubstringWithoutRepeatingCharcters\\LongestSubstringWithoutRepeatingCharcters\\Program.cs",
+              "RelativeDocumentMoniker": "LongestSubstringWithoutRepeatingCharcters\\Program.cs",
+              "ToolTip": "C:\\Users\\Haktan Emre \u015Eenel\\LeetCodeRepos\\LongestSubstringWithoutRepeatingCharcters\\LongestSubstringWithoutRepeatingCharcters\\Program.cs",
+              "RelativeToolTip": "LongestSubstringWithoutRepeatingCharcters\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T21:42:05.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
