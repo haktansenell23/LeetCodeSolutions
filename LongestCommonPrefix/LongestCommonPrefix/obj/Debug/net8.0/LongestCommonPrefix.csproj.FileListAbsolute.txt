@@ -1,0 +1,15 @@
+C:\Users\hakta\source\repos\LeetCodeSolutions\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\net8.0\LongestCommonPrefix.exe
+C:\Users\hakta\source\repos\LeetCodeSolutions\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\net8.0\LongestCommonPrefix.deps.json
+C:\Users\hakta\source\repos\LeetCodeSolutions\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\net8.0\LongestCommonPrefix.runtimeconfig.json
+C:\Users\hakta\source\repos\LeetCodeSolutions\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\net8.0\LongestCommonPrefix.dll
+C:\Users\hakta\source\repos\LeetCodeSolutions\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\net8.0\LongestCommonPrefix.pdb
+C:\Users\hakta\source\repos\LeetCodeSolutions\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\net8.0\LongestCommonPrefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakta\source\repos\LeetCodeSolutions\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\net8.0\LongestCommonPrefix.AssemblyInfoInputs.cache
+C:\Users\hakta\source\repos\LeetCodeSolutions\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\net8.0\LongestCommonPrefix.AssemblyInfo.cs
+C:\Users\hakta\source\repos\LeetCodeSolutions\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\net8.0\LongestCommonPrefix.csproj.CoreCompileInputs.cache
+C:\Users\hakta\source\repos\LeetCodeSolutions\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\net8.0\LongestCommonPrefix.sourcelink.json
+C:\Users\hakta\source\repos\LeetCodeSolutions\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\net8.0\LongestCommonPrefix.dll
+C:\Users\hakta\source\repos\LeetCodeSolutions\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\net8.0\refint\LongestCommonPrefix.dll
+C:\Users\hakta\source\repos\LeetCodeSolutions\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\net8.0\LongestCommonPrefix.pdb
+C:\Users\hakta\source\repos\LeetCodeSolutions\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\net8.0\LongestCommonPrefix.genruntimeconfig.cache
+C:\Users\hakta\source\repos\LeetCodeSolutions\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\net8.0\ref\LongestCommonPrefix.dll
